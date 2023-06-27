@@ -15,7 +15,7 @@ The script also includes functionality to highlight positive changes in green an
 This project is part of an assignment provided by [UNC Chapel Hill Data Analytics Bootcamp].
 
 
-##**Steps:**
+## **Steps:**
 
 1. I Created a script that loops through all the stocks for one year and outputs the following information:
   -The ticker symbol
@@ -26,7 +26,7 @@ This project is part of an assignment provided by [UNC Chapel Hill Data Analytic
 2. Added functionality to script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 3. Made the appropriate adjustments to VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-##**Source code:**
+## **Source code:**
 -To loop through all worksheets https://www.automateexcel.com/vba/cycle-and-update-all-worksheets/
 -To loop to Dynamic last row http://www.everything-excel.com/loop-to-last-row
 -Referencing https://www.wallstreetmojo.com/vba-range/#h-example-3-select-an-entire-column
